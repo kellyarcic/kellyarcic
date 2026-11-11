@@ -196,9 +196,9 @@ Meu objetivo é transformar conhecimento em experiência prática e evoluir cons
 
 ### 📡 FIND ME
 
-[![GitHub](https://github.com/kellyarcic)
+[![GitHub](https://img.shields.io/badge/GitHub-CarlosMouraCyber-181717?style=for-the-badge&logo=github)](https://github.com/CarlosMouraCyber)
 
-[![LinkedIn]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-moura-728886265)
 
 </td>
 <td width="50%" align="center">
