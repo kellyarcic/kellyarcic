@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=140&section=header&text=SUPER%20MARIO%20WORLD&fontSize=38&fontColor=E52521&fontAlignY=40&desc=Kelly%20ARAUJO%20%2F%2F%20PLAYER%2001&descSize=15&descColor=FFD700&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=140&section=header&text=SUPER%20MARIO%20WORLD&fontSize=38&fontColor=E52521&fontAlignY=40&desc=KELLY%20ARAUJO%20%2F%2F%20PLAYER%2001&descSize=15&descColor=FFD700&descAlignY=65" width="100%"/>
 
 </div>
 
@@ -83,7 +83,7 @@ Assim como Mario explora novos mundos, estou explorando programação, sistemas,
 
 ## <img src="https://img.shields.io/badge/01-E52521?style=flat-square" /> POR TRÁS DO REINO
 
-Sou apaixonado por tecnologia e pelo funcionamento dos sistemas computacionais. Atualmente, estou desenvolvendo minhas habilidades em programação, infraestrutura, redes e segurança da informação.
+Sou apaixonada por tecnologia e pelo funcionamento dos sistemas computacionais. Atualmente, estou desenvolvendo minhas habilidades em programação, infraestrutura, redes e segurança da informação.
 
 Meu objetivo é transformar conhecimento em experiência prática e evoluir constantemente como profissional.
 
