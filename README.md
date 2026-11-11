@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=SUPER%20MARIO%20WORLD&fontSize=42&fontColor=E52521&fontAlignY=40&desc=Kelly%20ARAUJO%20%2F%2F%20PLAYER%2001&descSize=16&descColor=FFD700&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=SUPER%20MARIO%20WORLD&fontSize=42&fontColor=E52521&fontAlignY=40&desc=Kelly%20ARAUJO%20%2F%2F%20PLAYER%2001&descSize=16&descColor=FFD700&descAlignY=65&stroke=E52521&strokeWidth=3" width="100%"/>
 
 </div>
 
@@ -78,7 +79,7 @@ Assim como Mario explora novos mundos, estou explorando programação, sistemas,
 
 ## <img src="https://img.shields.io/badge/01-E52521?style=flat-square" /> POR TRÁS DO REINO
 
-Sou apaixonado por tecnologia e pelo funcionamento dos sistemas computacionais. Atualmente, estou desenvolvendo minhas habilidades em programação, infraestrutura, redes e segurança da informação.
+Sou apaixonada por tecnologia e pelo funcionamento dos sistemas computacionais. Atualmente, estou desenvolvendo minhas habilidades em programação, infraestrutura, redes e segurança da informação.
 
 Meu objetivo é transformar conhecimento em experiência prática e evoluir constantemente como profissional.
 
@@ -198,7 +199,7 @@ Meu objetivo é transformar conhecimento em experiência prática e evoluir cons
 
 [![GitHub](https://img.shields.io/badge/GitHub-kellyarcic-181717?style=for-the-badge&logo=github)](https://github.com/kellyarcic)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN_AQUI)
 
 </td>
 <td width="50%" align="center">
