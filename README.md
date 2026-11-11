@@ -182,7 +182,7 @@ Meu objetivo é transformar conhecimento em experiência prática e evoluir cons
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CarlosMouraCyber&theme=darkhub&no-frame=true&row=1&column=6" width="100%"/>
+<img src="https://github.com/kellyarcic" width="100%"/>
 
 </div>
 
