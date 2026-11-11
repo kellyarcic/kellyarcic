@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=SUPER%20MARIO%20WORLD&fontSize=42&fontColor=E52521&fontAlignY=40&desc=CARLOS%20MOURA%20%2F%2F%20PLAYER%2001&descSize=16&descColor=FFD700&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=SUPER%20MARIO%20WORLD&fontSize=42&fontColor=E52521&fontAlignY=40&desc=KELLY%20ARAUJO%20%2F%2F%20PLAYER%2001&descSize=16&descColor=FFD700&descAlignY=65" width="100%"/>
 
 </div>
 
