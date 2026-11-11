@@ -140,7 +140,7 @@ Meu objetivo é transformar conhecimento em experiência prática e evoluir cons
 
 ### 🎮 MISSÕES ATIVAS
 
-- [x] Iniciar Engenharia da Computação
+- [x] Iniciar Ciência da Computação
 - [x] Explorar o universo Linux
 - [ ] Dominar Python
 - [ ] Aprimorar conhecimentos em redes
