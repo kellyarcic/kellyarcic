@@ -113,7 +113,7 @@ Meu objetivo é transformar conhecimento em experiência prática e evoluir cons
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosMouraCyber&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E52521&icon_color=FFD700&text_color=FFFFFF&hide_title=false" width="100%"/>
+<img src="https://github.com/kellyarcic" width="100%"/>
 
 </td>
 <td width="50%">
