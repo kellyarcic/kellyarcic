@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=SUPER%20MARIO%20WORLD&fontSize=42&fontColor=E52521&fontAlignY=40&desc=KELLY%20ARAUJO%20%2F%2F%20PLAYER%2001&descSize=16&descColor=FFD700&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=SUPER%20MARIO%20WORLD&fontSize=42&fontColor=E52521&fontAlignY=40&desc=Kelly%20ARAUJO%20%2F%2F%20PLAYER%2001&descSize=16&descColor=FFD700&descAlignY=65" width="100%"/>
 
 </div>
 
@@ -78,7 +78,7 @@ Assim como Mario explora novos mundos, estou explorando programação, sistemas,
 
 ## <img src="https://img.shields.io/badge/01-E52521?style=flat-square" /> POR TRÁS DO REINO
 
-Sou apaixonada por tecnologia e pelo funcionamento dos sistemas computacionais. Atualmente, estou desenvolvendo minhas habilidades em programação, infraestrutura, redes e segurança da informação.
+Sou apaixonado por tecnologia e pelo funcionamento dos sistemas computacionais. Atualmente, estou desenvolvendo minhas habilidades em programação, infraestrutura, redes e segurança da informação.
 
 Meu objetivo é transformar conhecimento em experiência prática e evoluir constantemente como profissional.
 
@@ -113,12 +113,12 @@ Meu objetivo é transformar conhecimento em experiência prática e evoluir cons
 <tr>
 <td width="50%">
 
-<img src="https://github.com/kellyarcic" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kellyarcic&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E52521&icon_color=FFD700&text_color=FFFFFF&hide_title=false" width="100%"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMouraCyber&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E52521&text_color=FFFFFF" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellyarcic&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E52521&text_color=FFFFFF" width="100%"/>
 
 </td>
 </tr>
@@ -126,7 +126,7 @@ Meu objetivo é transformar conhecimento em experiência prática e evoluir cons
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosMouraCyber&theme=dark&hide_border=true&background=0D1117&ring=E52521&fire=FFD700&currStreakLabel=FFFFFF" width="85%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kellyarcic&theme=dark&hide_border=true&background=0D1117&ring=E52521&fire=FFD700&currStreakLabel=FFFFFF" width="85%"/>
 
 </div>
 
@@ -182,7 +182,7 @@ Meu objetivo é transformar conhecimento em experiência prática e evoluir cons
 
 <div align="center">
 
-<img src="https://github.com/kellyarcic" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kellyarcic&theme=darkhub&no-frame=true&row=1&column=6" width="100%"/>
 
 </div>
 
